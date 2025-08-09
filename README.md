@@ -13,6 +13,7 @@ Permite crear, editar y eliminar registros de clientes en un sistema.
 ## Estructura del proyecto
 
 `run.py`: Punto de entrada de la aplicación.
+
 `ui.py`: Define la interfaz gráfica.
 `database`.py: Maneja las operaciones con el archivo CSV.
 `helpers`.py: Funciones auxiliares.
@@ -31,3 +32,4 @@ Permite crear, editar y eliminar registros de clientes en un sistema.
 
    ```bash
    git clone https://github.com/FernandoBlanco10/Gestor-de-Clientes.git
+
